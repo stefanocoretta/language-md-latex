@@ -1,0 +1,15 @@
+'scopeName': 'text.md.latex'
+'name': 'Markdown (LaTeX)'
+'fileTypes': [
+  'md'
+  'rmd'
+  'markdown'
+]
+'patterns': [
+  {
+    'include': 'text.tex.latex'
+  }
+  {
+    'include': 'text.md'
+  }
+]
